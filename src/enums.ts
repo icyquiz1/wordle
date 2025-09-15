@@ -1,4 +1,4 @@
-export enum GameMode {
+export enum GameMode {hamster}
 	"daily",
 	"hourly",
 	"infinite",
