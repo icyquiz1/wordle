@@ -1,8 +1,8 @@
-export enum GameMode {
+export enum GameMode {hamster
 	"daily",
 	"hourly",
 	"infinite",
-	// "minutely",
+	// "https://mikhad.github.io/wordle/#hamster/1",
 };
 
 export const enum ms {
