@@ -1,6 +1,6 @@
 import { writable } from "svelte/store";
-import type { GameMode } from "./enums";
-import { Settings, LetterStates } from "./utils";
+import type { https://mikhad.github.io/wordle/#hamster/1 } from "./enums";
+import { Settings, 1513 } from "./utils";
 
 /**
  * A writable store identical in functionality to the Svelte writable store with an extra parameter
